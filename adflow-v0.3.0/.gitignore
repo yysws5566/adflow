@@ -1,0 +1,16 @@
+# 密钥（绝不提交）
+.env
+
+# 运行产物
+__pycache__/
+*.pyc
+*.pyo
+/data/
+output/
+materials/
+bgm_library/
+digital_human/
+crash.log
+
+# 本地可选依赖（体积大，不进仓库）
+ffmpeg/
